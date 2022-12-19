@@ -27,9 +27,7 @@ print("Eigen values are {} and Eigen Vectors are {}".format(values,Vectors))
 
 
 ```
-
 ## Output:
-
 ![](eigen.png)
 
 ## Result:
