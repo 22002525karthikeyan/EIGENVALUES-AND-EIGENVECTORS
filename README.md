@@ -10,7 +10,8 @@ we have to initialise program using import numpy to perform mathematical calcula
 ### Step 2: 
 The input from the user is stored in the variable a
 
-### Step 3: Using the np.linalg.eig(),  we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
+### Step 3: 
+Using the np.linalg.eig(),  we get two results (first is eigenvalue and second is eigenvector) of the given matrix.
 ### Step 4: 
 End of the program
 
@@ -28,7 +29,7 @@ print("Eigen values are {} and Eigen Vectors are {}".format(values,Vectors))
 
 ```
 ## Output:
-![](eigen.png)
+![](evv.png)
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
